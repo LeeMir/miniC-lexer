@@ -1,0 +1,15 @@
+# 실행 파일
+*
+!*.*
+
+# txt
+*.txt
+
+# Object
+*.o
+
+# lex.yy.c
+lex.yy.c
+
+# 입력 파일
+*.mc
